@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tray0019
 - 👀 I’m interested in coding,ai,database
 - 🌱 I’m currently learning Computer Programming
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any programming project
 - 📫 You can reach me at my www.linkedin.com/in/rustom-trayvilla
 
 <!---
