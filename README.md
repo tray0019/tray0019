@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tray0019
-- 👀 I’m interested in coding,ai,database
-- 🌱 I’m currently learning Computer Programming
+- 👀 I’m interested in software development, specifically back-end
+- 🌱 Curentlly finished Computer Programming program
 - 💞️ I’m looking to collaborate on any programming project
 - 📫 You can reach me at my linkedin www.linkedin.com/in/rustom-trayvilla
 - or school email tray0019@algonquinlive.com
