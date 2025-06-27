@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tray0019
-- 👀 I’m interested in software development, specifically back-end
+- 👀 I’m interested in software development, back-end
 - 🌱 Curentlly finished Computer Programming program
 - 💞️ I’m looking to collaborate on any programming project
 - 📫 You can reach me at my linkedin www.linkedin.com/in/rustom-trayvilla
