@@ -2,7 +2,7 @@
 - 👀 Passionate about software development, with a focus on backend (Java & Spring Boot)
 - 🌱 Diploma in Computer Programming co-op program 
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rustom-trayvilla/)
-- 🖥️ Portfolio Website: [softwaredev-portfolio.onrender.com]
+- 🖥️ Portfolio Website: 
 - (https://global-legend.up.railway.app/login)
 - (https://softwaredev-portfolio.onrender.com)
   - [To-Do-App](https://github.com/tray0019/To-Do-Application)
