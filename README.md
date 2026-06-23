@@ -1,11 +1,4 @@
-# 👋 Hi, I'm Rustom Trayvilla
-
-I'm a junior software developer based in Ottawa, Canada, focused on building full-stack applications with **Java, Spring Boot, React, Next.js, and SQL**.
-
-I recently completed a **Computer Programming Co-op Diploma at Algonquin College** and gained real-world software testing experience through a co-op placement with the **Royal Canadian Mounted Police (RCMP)**, where I worked on manual testing, regression testing, defect reporting, and Azure DevOps workflows.
-
-I'm currently building full-stack projects to strengthen my backend, frontend, deployment, and production troubleshooting skills.
-
+Rustom Trayvilla
 ---
 
 ## 🚀 Featured Project
