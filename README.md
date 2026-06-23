@@ -9,11 +9,15 @@ Rustom Trayvilla
 
 The application allows users to create goals, track daily progress, view activity history, follow other users, react to activity, and compete through leaderboard-style gamification.
 
-**Live App:**
+**Recruiter Project Page:**  
+https://globallegends.app/recruiters
+
+**Live App:**  
 https://globallegends.app
 
-**Recruiter Project Page:**
-https://globallegends.app/recruiters
+**Project Note:**  
+Global Legends is publicly available as a portfolio project and demo application. It was built to showcase my full-stack development skills, including backend API design, authentication, database relationships, frontend routing, deployment, and production troubleshooting.
+
 
 **Tech Stack:**
 
