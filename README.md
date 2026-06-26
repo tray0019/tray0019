@@ -31,7 +31,6 @@ Global Legends is publicly available as a portfolio project and demo application
 * React Native / Expo
 * Axios
 * Railway
-* Vercel
 * Git / GitHub
 * Postman
 
