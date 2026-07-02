@@ -1,6 +1,15 @@
 Rustom Trayvilla
 
+## 📊 My GitHub Statistics
+<div align="center">
+  
+  <!-- Main Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tray0019&show_icons=true&theme=radical&hide_border=true" alt="tray0019's GitHub stats" />
 
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tray0019&layout=compact&theme=radical&hide_border=true" alt="tray0019's top languages" />
+
+</div>
 ---
 
 ## 🚀 Featured Project
