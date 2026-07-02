@@ -1,9 +1,7 @@
 Rustom Trayvilla
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=tray0019)
 
 ## 🚀 Featured Project
 
@@ -124,3 +122,7 @@ Git, GitHub, Railway, Vercel, Azure DevOps, IntelliJ IDEA, VS Code, Linux, Docke
 * [GitHub](https://github.com/tray0019)
 
 Open to junior developer, QA/testing, application support, IT, and software-related opportunities.
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=tray0019)
